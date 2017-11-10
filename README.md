@@ -2,6 +2,10 @@
 Workshop slides, code, and files
 
 ## Workshops
+- `Stewart_text`
+	- "Text as data"
+	- Brandon Stewart, Princeton University
+	- 1 December, 2017
 - `Larremore_networks`
 	- "Communities, hierarchies, and cores: finding large-scale structure in complex networks"
 	- Daniel Larremore, University of Colorado Boulder
