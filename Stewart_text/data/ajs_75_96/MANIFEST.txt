@@ -1,0 +1,9 @@
+Job Title: ajs_75_96
+Job ID: 2016.3.16.ntHf5RAz
+Requester: clarkest
+Query: http://dfr.jstor.org/fsearch/submitrequest?cs=ty%3Afla%5E1.0%7Cjcode%3Aamerjsoci%5E1.0%7Cyear%3A%5B1970+TO+1996%5D%5E1.0&fs=yrm1%3Atym1%3Asnm2&view=text&cc=year%3a[1975+TO+1996]^1.0
+View(s): citations
+Format: CSV
+Documents Requested: 1000
+Date Processed: 2016-03-16 23:14:02.934655
+

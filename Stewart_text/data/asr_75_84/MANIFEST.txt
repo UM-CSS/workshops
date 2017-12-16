@@ -1,0 +1,9 @@
+Job Title: ASR 75-84
+Job ID: 2016.3.16.Z8pcLZ5Y
+Requester: clarkest
+Query: http://dfr.jstor.org/fsearch/submitrequest?cs=ty%3Afla%5E1.0%7Cjcode%3Aamersocirevi%5E1.0&fs=yrm1%3Atym1%3Asnm1&view=text&cc=year%3a[1975+TO+1984]^1.0
+View(s): citations
+Format: CSV
+Documents Requested: 1000
+Date Processed: 2016-03-16 23:11:02.693959
+
