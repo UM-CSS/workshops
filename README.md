@@ -15,10 +15,10 @@ Workshop slides, code, and files
 	- Kevin Quinn, University of Michigan
 	- 3 November, 2017
 - `Healy_visualization`
-	- "Data Vizualization for Social Science
+	- "Data Vizualization for Social Science"
 	- Kieran Healy, Duke University
-	- 9 March, 2018
 	- Materials from: http://socviz.co/
+	- 9 March, 2018
 - `Hofman_machine_learning`
 	- "Machine Learning Tutorial"
 	- Jake Hofman, Microsoft Research
