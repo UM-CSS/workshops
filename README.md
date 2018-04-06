@@ -27,6 +27,7 @@ Workshop slides, code, and files
 - `Sharma_causal_inference`
 	- "Causal inference in online systems: Methods, pitfals and best practices"
 	- Amit Sharma, Microsoft Research
+	- Available at: https://github.com/amit-sharma/causal-inference-tutorial
 	- 6 April, 2018
 
 
